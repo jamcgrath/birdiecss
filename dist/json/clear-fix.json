@@ -1,9 +1,0 @@
-{
-  ".clearfix::before,\n.clearfix::after": {
-    "content": "\"\"",
-    "display": "table"
-  },
-  ".clearfix::after": {
-    "clear": "both"
-  }
-}
